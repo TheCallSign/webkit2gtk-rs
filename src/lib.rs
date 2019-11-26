@@ -4,7 +4,6 @@
  */
 
 #![allow(unused_imports)]
-#![feature(option_flattening)]
 
 #[macro_use]
 extern crate bitflags;
